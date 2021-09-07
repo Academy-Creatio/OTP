@@ -1,8 +1,10 @@
+using OTP_Training_Interfaces;
 using System;
 using System.ServiceModel;
 using System.ServiceModel.Activation;
 using System.ServiceModel.Web;
 using Terrasoft.Core;
+using Terrasoft.Core.Factories;
 using Terrasoft.Web.Common;
 
 namespace Otp
@@ -16,7 +18,16 @@ namespace Otp
 		[WebInvoke(Method = "POST", RequestFormat = WebMessageFormat.Json, BodyStyle = WebMessageBodyStyle.Wrapped, ResponseFormat = WebMessageFormat.Json)]
 		public string PostMethodName()
 		{
-			return "Ok Post - Returned with VS";
+
+			ConstructorArgument ca = new ConstructorArgument("userConnection", UserConnection);
+			ICalculator calculator = ClassFactory.Get<ICalculator>(
+				 "SecondImplementation", ca);
+
+			//calculator.Init(UserConnection);
+			var result = calculator.Add(10, 15);
+			
+
+			return $"Result {result}";
 		}
 
 		[OperationContract]

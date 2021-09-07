@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OTP_Training_Interfaces</name>
+    </assembly>
+    <members>
+        <member name="T:OTP_Training_Interfaces.ICalculator">
+            <summary>
+            Provides basic calculator functions
+            </summary>
+            <remarks>
+            <example>
+            You can instantiate an instance of the class with the following constructor
+            <code>
+            ConstructorArgument ca = new ConstructorArgument("userConnection", UserConnection);
+            ICalculator calculator = ClassFactory.Get&lt;ICalculator&gt;("SecondImplementation", ca);
+            </code>
+            If constructor is not called, make sure to call <see cref="M:OTP_Training_Interfaces.ICalculator.Init(Terrasoft.Core.UserConnection)">Init</see> method with UserConnection
+            <code>
+            ICalculator calculator = ClassFactory.Get&lt;ICalculator&gt;("SecondImplementation");
+            calculator.Init(UserConnection);
+            </code>
+            </example>
+            </remarks>
+        </member>
+        <member name="M:OTP_Training_Interfaces.ICalculator.Add(System.Int32,System.Int32)">
+            <summary>
+            Adds two integers
+            </summary>
+            <param name="a">First number to add</param>
+            <param name="b">Second number to add</param>
+            <returns>A+B</returns>
+        </member>
+        <member name="M:OTP_Training_Interfaces.ICalculator.Subtract(System.Int32,System.Int32)">
+            <summary>
+            Subtracts B from A
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <exception cref="T:System.NullReferenceException">When <c>UserConection</c> is not set</exception>
+            <returns>A-B</returns>
+        </member>
+        <member name="M:OTP_Training_Interfaces.ICalculator.Init(Terrasoft.Core.UserConnection)">
+            <summary>
+            Initializes instance of a calculator instance with UserConnection
+            </summary>
+            <param name="userconnection"></param>
+            <remarks>
+            Avoid calling this method if class is instantiated with a constructor
+            </remarks>
+        </member>
+    </members>
+</doc>
