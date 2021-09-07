@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ad5b3b9d-c9d7-482e-be18-96c1f5442bcb",
+    "Name": "Make",
+    "ModifiedOnUtc": "\/Date(1630999818000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Make",
+    "DependsOn": []
+  }
+}

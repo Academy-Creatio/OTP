@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "bac85221-42e8-4839-acb9-a262a908b379",
+    "Name": "DemoServce",
+    "ModifiedOnUtc": "\/Date(1631006797000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "DemoService",
+    "DependsOn": []
+  }
+}

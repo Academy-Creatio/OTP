@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.ExpenseReport.Caption" Value="ออบเจ็กต์ฐาน" />
+			<Item Name="EventsProcessSchema.Caption" Value="Activity" />
+		</Items>
+	</Group>
+</Resources>

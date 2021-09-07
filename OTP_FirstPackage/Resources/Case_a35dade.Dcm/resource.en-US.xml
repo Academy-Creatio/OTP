@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Expense Report" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+			<Item Name="Stages.Stage1.Caption" Value="New" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.Caption" Value="Attach scanned documents in PDF" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Account.Caption" Value="Account" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.ActivityCategory.Caption" Value="Category" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.ActivityCategory.DisplayValue" Value="Paperwork" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.ActivityPriority.Caption" Value="Priority" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.ActivityResult.Caption" Value="Result of activity" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Application.Caption" Value="Application" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Case.Caption" Value="Case" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Change.Caption" Value="Change" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Contact.Caption" Value="Contact" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Contract.Caption" Value="Contract" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.CurrentActivityId.Caption" Value="Task Id" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Document.Caption" Value="Document" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Duration.Caption" Value="Duration" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Duration.DisplayValue" Value="20" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.DurationPeriod.Caption" Value="Duration (period)" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.ExecutionContext.Caption" Value="Execution context" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.ExpenseReport.Caption" Value="Expense Report" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.ExpenseReport.DisplayValue" Value="[#Main record.Id#]" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.FinApplication.Caption" Value="Application" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Incident.Caption" Value="Incident" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.InformationOnStep.Caption" Value="Information on step" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Invoice.Caption" Value="Invoice" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.IsActivityCompleted.Caption" Value="Activity completed" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.IsActivityCompleted.DisplayValue" Value="false" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Listing.Caption" Value="Listings" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.OmniChat.Caption" Value="Chat" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Opportunity.Caption" Value="Opportunity" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Order.Caption" Value="Order" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.OwnerId.Caption" Value="Owner" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.OwnerId.DisplayValue" Value="[#System variable.Current user contact#]" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Problem.Caption" Value="Problem" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Project.Caption" Value="Project" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Property.Caption" Value="Properties" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.QueueItem.Caption" Value="Queue item" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Recommendation.Caption" Value="Recommendation" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Recommendation.DisplayValue" Value="Attach scanned documents in PDF" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Recommendation.Value" Value="Attach scanned documents in PDF" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Release.Caption" Value="Release" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.RemindBefore.Caption" Value="Remind owner in advance" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.RemindBeforePeriod.Caption" Value="Remind owner in advance (period)" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.Requests.Caption" Value="Request" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.RoleId.Caption" Value="Role" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.ShowExecutionPage.Caption" Value="Show execution page automatically" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.ShowExecutionPage.DisplayValue" Value="false" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.ShowInScheduler.Caption" Value="Show in calendar" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.ShowInScheduler.DisplayValue" Value="true" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.StartIn.Caption" Value="Start executing in" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.StartInPeriod.Caption" Value="Start executing in (period)" />
+			<Item Name="Stages.Stage1.Elements.DcmElement3.ProcessFlowElement.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="Stages.Stage2.Caption" Value="Managerial Approval" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.Caption" Value="Managerial Approval" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.ApprovalSchemaUId.Caption" Value="Approval object" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.ApproverEmailTemplate.Caption" Value="Email template for the approver" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.ApproverType.Caption" Value="Approver type" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.ApproverType.DisplayValue" Value="Employee's manager" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.AuthorEmailAddress.Caption" Value="Recipient" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.AuthorEmailTemplate.Caption" Value="Email template for the author" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.CurrentApprovalId.Caption" Value="Current Approval Id" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.EmployeeId.Caption" Value="Employee" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.EmployeeId.DisplayValue" Value="[#Main record.Contact#]" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.EntitySchemaUId.Caption" Value="Object" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.EntitySchemaUId.DisplayValue" Value="cbd06e9b-94d0-4deb-a2f3-928a14d41771" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.IgnoreEmailErrors.Caption" Value="Ignore email sending errors" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.IgnoreEmailErrors.DisplayValue" Value="true" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.IsAllowedToDelegate.Caption" Value="Approval may be delegated" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.IsAllowedToDelegate.DisplayValue" Value="false" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.IsRequiredDigitalSignature.Caption" Value="Digital signature required" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.IsSendEmailToApprovers.Caption" Value="Send email to the approvers" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.IsSendEmailToApprovers.DisplayValue" Value="false" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.IsSendEmailToAuthor.Caption" Value="Send email to the author" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.IsSendEmailToAuthor.DisplayValue" Value="false" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.MasterColumnUId.Caption" Value="Master column" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Purpose.Caption" Value="Approval purpose" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Purpose.DisplayValue" Value="Approval required" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.Purpose.Value" Value="Approval required" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.RecordId.Caption" Value="Record Id" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.RecordId.DisplayValue" Value="[#Main record.Id#]" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.ResultParameter.Caption" Value="Result parameter" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.RoleId.Caption" Value="Role" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.SectionId.Caption" Value="Section" />
+			<Item Name="Stages.Stage2.Elements.DcmElement4.ProcessFlowElement.Parameters.SectionId.DisplayValue" Value="c36d8e83-6fa6-41ef-859a-ef416d9b107b" />
+			<Item Name="Stages.Stage2.Elements.DcmElement6.Caption" Value="Notification (MA)" />
+			<Item Name="Stages.Stage2.Elements.DcmElement6.ProcessFlowElement.Parameters.ExpenseReportId.Caption" Value="Expense Report" />
+			<Item Name="Stages.Stage2.Elements.DcmElement6.ProcessFlowElement.Parameters.ExpenseReportId.DisplayValue" Value="[#Main record.Id#]" />
+			<Item Name="Stages.Stage3.Caption" Value="Financial Processing" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.Caption" Value="Notification (FP)" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.ExpenseReportId.Caption" Value="Expense Report" />
+			<Item Name="Stages.Stage3.Elements.DcmElement5.ProcessFlowElement.Parameters.ExpenseReportId.DisplayValue" Value="[#Main record.Id#]" />
+			<Item Name="Stages.Stage4.Caption" Value="Approved" />
+			<Item Name="Stages.Stage4.Elements.DcmElement1.Caption" Value="Lock up" />
+			<Item Name="Stages.Stage4.Elements.DcmElement1.ProcessFlowElement.Parameters.AddRights.Caption" Value="List of rights to add" />
+			<Item Name="Stages.Stage4.Elements.DcmElement1.ProcessFlowElement.Parameters.AddRights.DisplayValue" Value="[]" />
+			<Item Name="Stages.Stage4.Elements.DcmElement1.ProcessFlowElement.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="Stages.Stage4.Elements.DcmElement1.ProcessFlowElement.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="Stages.Stage4.Elements.DcmElement1.ProcessFlowElement.Parameters.DataSourceFilters.Caption" Value="Object meets condition" />
+			<Item Name="Stages.Stage4.Elements.DcmElement1.ProcessFlowElement.Parameters.DeleteRights.Caption" Value="List of rights to delete" />
+			<Item Name="Stages.Stage4.Elements.DcmElement1.ProcessFlowElement.Parameters.DeleteRights.DisplayValue" Value="[{Id:&quot;f86f8eb2-f88c-4b09-a5e1-2fa38ebc789b&quot;,Name:&quot;All roles and users&quot;,CanRead:false,CanEdit:true,CanDelete:true,Source:&quot;1&quot;,Grantee:&quot;AllRolesAndUsers&quot;,Value:&quot;&quot;}]" />
+			<Item Name="Stages.Stage4.Elements.DcmElement1.ProcessFlowElement.Parameters.EntitySchemaUId.Caption" Value="Object" />
+			<Item Name="Stages.Stage4.Elements.DcmElement1.ProcessFlowElement.Parameters.EntitySchemaUId.DisplayValue" Value="cbd06e9b-94d0-4deb-a2f3-928a14d41771" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.Caption" Value="Notification(App)" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.ExpenseReportId.Caption" Value="Expense Report" />
+			<Item Name="Stages.Stage4.Elements.DcmElement7.ProcessFlowElement.Parameters.ExpenseReportId.DisplayValue" Value="[#Main record.Id#]" />
+			<Item Name="Stages.Stage5.Caption" Value="Denied" />
+			<Item Name="Stages.Stage5.Elements.DcmElement2.Caption" Value="Lock up" />
+			<Item Name="Stages.Stage5.Elements.DcmElement2.ProcessFlowElement.Parameters.AddRights.Caption" Value="List of rights to add" />
+			<Item Name="Stages.Stage5.Elements.DcmElement2.ProcessFlowElement.Parameters.AddRights.DisplayValue" Value="[]" />
+			<Item Name="Stages.Stage5.Elements.DcmElement2.ProcessFlowElement.Parameters.ConsiderTimeInFilter.Caption" Value="Consider time in the filter" />
+			<Item Name="Stages.Stage5.Elements.DcmElement2.ProcessFlowElement.Parameters.ConsiderTimeInFilter.DisplayValue" Value="true" />
+			<Item Name="Stages.Stage5.Elements.DcmElement2.ProcessFlowElement.Parameters.DataSourceFilters.Caption" Value="Object meets condition" />
+			<Item Name="Stages.Stage5.Elements.DcmElement2.ProcessFlowElement.Parameters.DeleteRights.Caption" Value="List of rights to delete" />
+			<Item Name="Stages.Stage5.Elements.DcmElement2.ProcessFlowElement.Parameters.DeleteRights.DisplayValue" Value="[{Id:&quot;bdfaa20b-496b-4d94-af69-3d61856a9776&quot;,Name:&quot;All roles and users&quot;,CanRead:false,CanEdit:true,CanDelete:true,Source:&quot;1&quot;,Grantee:&quot;AllRolesAndUsers&quot;,Value:&quot;&quot;}]" />
+			<Item Name="Stages.Stage5.Elements.DcmElement2.ProcessFlowElement.Parameters.EntitySchemaUId.Caption" Value="Object" />
+			<Item Name="Stages.Stage5.Elements.DcmElement2.ProcessFlowElement.Parameters.EntitySchemaUId.DisplayValue" Value="cbd06e9b-94d0-4deb-a2f3-928a14d41771" />
+			<Item Name="Stages.Stage5.Elements.DcmElement8.Caption" Value="Notification (Denied)" />
+			<Item Name="Stages.Stage5.Elements.DcmElement8.ProcessFlowElement.Parameters.ExpenseReportId.Caption" Value="Expense Report" />
+			<Item Name="Stages.Stage5.Elements.DcmElement8.ProcessFlowElement.Parameters.ExpenseReportId.DisplayValue" Value="[#Main record.Id#]" />
+		</Items>
+	</Group>
+</Resources>

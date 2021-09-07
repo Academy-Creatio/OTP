@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "ece82cf3-45d8-7f96-fa13-dc02e14c7c2c",
+    "Name": "OTP_FirstPackage",
+    "ModifiedOnUtc": "\/Date(1630913350000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      }
+    ]
+  }
+}

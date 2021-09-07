@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.ExpenseReport.Caption" Value="Đối tượng cơ bản" />
+			<Item Name="EventsProcessSchema.Caption" Value="Activity" />
+		</Items>
+	</Group>
+</Resources>

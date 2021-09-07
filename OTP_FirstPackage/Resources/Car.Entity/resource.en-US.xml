@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Car" />
+			<Item Name="Columns.Contact.Caption" Value="Contact" />
+			<Item Name="Columns.Make.Caption" Value="Make" />
+			<Item Name="Columns.Model.Caption" Value="Model" />
+			<Item Name="Columns.Name.Caption" Value="Name" />
+			<Item Name="Columns.Value.Caption" Value="Value" />
+			<Item Name="Columns.Year.Caption" Value="Year" />
+		</Items>
+	</Group>
+</Resources>

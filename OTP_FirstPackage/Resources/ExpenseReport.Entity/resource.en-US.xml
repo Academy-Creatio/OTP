@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Expense Report" />
+			<Item Name="Columns.AmountFc.Caption" Value="Amount FC" />
+			<Item Name="Columns.AmountHc.Caption" Value="Amount HC" />
+			<Item Name="Columns.Contact.Caption" Value="Contact" />
+			<Item Name="Columns.Currency.Caption" Value="Currency" />
+			<Item Name="Columns.Name.Caption" Value="Name" />
+			<Item Name="Columns.Notes.Caption" Value="Notes" />
+			<Item Name="Columns.ReportDate.Caption" Value="ReportDate" />
+			<Item Name="Columns.Status.Caption" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

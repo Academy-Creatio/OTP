@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "60290e99-b25d-434e-8c2a-be8f92576fcb",
+    "Name": "Process_7f0542e",
+    "ModifiedOnUtc": "\/Date(1630925284000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Expense Report Status Change Notification",
+    "DependsOn": []
+  }
+}

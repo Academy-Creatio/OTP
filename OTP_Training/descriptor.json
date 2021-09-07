@@ -1,0 +1,17 @@
+{
+  "Descriptor": {
+    "UId": "da975e47-8f13-4e5f-9129-6c06d74ced36",
+    "PackageVersion": "7.8.0",
+    "Name": "OTP_Training",
+    "ModifiedOnUtc": "/Date(1631008187000)/",
+    "Maintainer": "Customer",
+    "Description": "Source Code\nhttps://github.com/Academy-Creatio/",
+    "DependsOn": [
+        {
+          "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+          "PackageVersion": "7.8.0",
+          "Name": "ProductCore"
+        }
+      ]
+  }
+}

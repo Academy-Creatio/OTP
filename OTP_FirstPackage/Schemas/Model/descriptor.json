@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "68543453-1589-40ee-96e8-2d796ce2624d",
+    "Name": "Model",
+    "ModifiedOnUtc": "\/Date(1630917423000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Model",
+    "DependsOn": []
+  }
+}

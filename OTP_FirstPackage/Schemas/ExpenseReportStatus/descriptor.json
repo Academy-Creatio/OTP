@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6f627974-41ef-4604-bb74-77e8a2fd439c",
+    "Name": "ExpenseReportStatus",
+    "ModifiedOnUtc": "\/Date(1630921168000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Expense Report Status",
+    "DependsOn": []
+  }
+}

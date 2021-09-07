@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e5d71589-80ee-4f5c-bb6e-65c944cb5bf4",
+    "Name": "ExpenseReportVisaPageV2",
+    "ModifiedOnUtc": "\/Date(1630923758000)\/",
+    "Parent": {
+      "UId": "66e3a5b3-f004-4335-a4e9-5ba255c8a319",
+      "Name": "VisaPageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "ExpenseReportVisaPageV2",
+    "DependsOn": []
+  }
+}

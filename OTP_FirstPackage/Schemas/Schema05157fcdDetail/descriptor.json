@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "023b42ac-2837-4fa2-b740-437d1733dae7",
+    "Name": "Schema05157fcdDetail",
+    "ModifiedOnUtc": "\/Date(1630916974000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Car\"",
+    "DependsOn": []
+  }
+}

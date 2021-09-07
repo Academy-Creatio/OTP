@@ -1,0 +1,69 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "624b3654-e0f1-4c6c-8939-2da265ebd5c6"
+        },
+        {
+          "SchemaColumnUId": "05ec4dc8-c469-5926-2fc1-b0ac39eb4127",
+          "Value": "63265b5f-dda7-4c94-8ce9-95c55936532f",
+          "DisplayValue": "Mercedes"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "b4d0217c-2444-44f8-8480-ddcbd770b164"
+        },
+        {
+          "SchemaColumnUId": "05ec4dc8-c469-5926-2fc1-b0ac39eb4127",
+          "Value": "57b5d139-63cf-483f-b87a-a81663393452",
+          "DisplayValue": "Fiat"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "d4f2fd1d-316f-4f78-913d-5e2a041fceb7"
+        },
+        {
+          "SchemaColumnUId": "05ec4dc8-c469-5926-2fc1-b0ac39eb4127",
+          "Value": "fe3c2021-b8e0-4cec-9aa6-36a5d8167f26",
+          "DisplayValue": "BMW"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "70972b07-34d1-42a9-b17e-d3ee20ea6de8"
+        },
+        {
+          "SchemaColumnUId": "05ec4dc8-c469-5926-2fc1-b0ac39eb4127",
+          "Value": "fe3c2021-b8e0-4cec-9aa6-36a5d8167f26",
+          "DisplayValue": "BMW"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9fa9708a-3bcb-43a5-80c8-ffd12559f508"
+        },
+        {
+          "SchemaColumnUId": "05ec4dc8-c469-5926-2fc1-b0ac39eb4127",
+          "Value": "ba5d7271-3b92-43e7-8bf1-172c95df243d",
+          "DisplayValue": "Ford"
+        }
+      ]
+    }
+  ]
+}
