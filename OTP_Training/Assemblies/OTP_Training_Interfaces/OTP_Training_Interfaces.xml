@@ -37,8 +37,8 @@
             </summary>
             <param name="a"></param>
             <param name="b"></param>
-            <exception cref="T:System.NullReferenceException">When <c>UserConection</c> is not set</exception>
             <returns>A-B</returns>
+            <exception cref="T:System.NullReferenceException">Thrown when <c>UserConection</c> is not set</exception>
         </member>
         <member name="M:OTP_Training_Interfaces.ICalculator.Init(Terrasoft.Core.UserConnection)">
             <summary>

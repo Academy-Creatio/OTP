@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "bbde5637-0d89-434c-bf98-c665660f3708",
+    "Name": "Process_Example1",
+    "ModifiedOnUtc": "\/Date(1631085819000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Example - Call Clio methods"
+  }
+}

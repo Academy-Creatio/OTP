@@ -138,6 +138,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Files\cs\Calculator.cs" />
+    <Compile Include="Files\cs\ContactEventListener.cs" />
     <Compile Include="Files\cs\DemoServiceTwo.cs" />
     <Compile Include="Files\cs\DTO\Person.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

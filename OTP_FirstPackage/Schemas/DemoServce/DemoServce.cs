@@ -25,7 +25,7 @@ namespace Otp
 
 			//calculator.Init(UserConnection);
 			var result = calculator.Add(10, 15);
-			
+			calculator.Subtract(1, 1);
 
 			return $"Result {result}";
 		}
