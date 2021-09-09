@@ -33,8 +33,11 @@ namespace WorkshopWorkingWithData.Files.EventListener
             if (CountOverlappingActivitiesSelect(entity) != 0)
             {
                 e.IsCanceled = true;
-                string message = entity.GetLocalizableString("OverlappingActivitiesFoundMessage", GetType().Name);
-                MsgChannelUtilities.PostMessage(UserConnection, GetType().Name, message);
+				//string message = entity.GetLocalizableString("OverlappingActivitiesFoundMessage", GetType().Name);
+				string message = "{\"event\": \"Overlapping activities detected\"}";
+
+
+				MsgChannelUtilities.PostMessage(UserConnection, GetType().Name, message);
             }
         }
 

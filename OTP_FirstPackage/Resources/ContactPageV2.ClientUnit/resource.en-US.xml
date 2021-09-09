@@ -4,6 +4,12 @@
 		<Items>
 			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Caption" Value="EnrichCloudIcon" />
 			<Item Name="Images.72a10ccc-5746-4ee1-9a4d-61fb14d53899.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMiA4IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAxMiA4Ij48cGF0aCBkPSJtOS43IDNjLS40LTEuNy0xLjktMy0zLjctMy0xLjQgMC0yLjcuOC0zLjMgMi0xLjUuMi0yLjcgMS41LTIuNyAzIDAgMS43IDEuMyAzIDMgM2g2LjVjMS40IDAgMi41LTEuMSAyLjUtMi41IDAtMS4zLTEtMi40LTIuMy0yLjUiIGZpbGw9IiNmY2E3NTQiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJtNSA2LjVsLTEuNy0xLjcuNy0uOCAxIDEuMSAyLjYtMi42LjcuN3oiLz48L3N2Zz4=" />
+			<Item Name="Images.90f19ca3-4a92-5207-0267-417fb1ecb83b.Caption" Value="Creatio Square" />
+			<Item Name="Images.90f19ca3-4a92-5207-0267-417fb1ecb83b.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMTMgMjEzIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiPgogICAgPGRlZnM+CiAgICAgICAgPHN0eWxlPgogICAgICAgICAgICAuY2xzLTF7ZmlsbDojZmY0MDEzfS5jbHMtMntmaWxsOiNlMTAwMDB9CiAgICAgICAgPC9zdHlsZT4KICAgIDwvZGVmcz4KICAgIDxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04NTQgLTY0NzUpIj4KICAgICAgICA8cGF0aCBkPSJNOTk3Ljc0MiAzMzIuNjc4aC0yMTN2LTIxM2gyMTN6bS0xNzgtMTc3djE0MmgxNDJ2LTE0MnoiIGNsYXNzPSJjbHMtMSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjkuMjU4IDYzNTUuMzIyKSIvPgogICAgICAgIDxwYXRoIGQ9Ik05NjEuNzQyIDI5Ny45MTF2LTE0MmwzNi0zNnYyMTN6bS0xNzcgMzV2LTIxM2wzNSAzNnYxNDJsLTM1IDM1eiIgY2xhc3M9ImNscy0yIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSg2OS4yNTggNjM1NS4wODkpIi8+CiAgICA8L2c+Cjwvc3ZnPgo=" />
+			<Item Name="Images.ee5ee0e3-ff7a-f5d1-75a8-231c5fbd7fbe.Caption" Value="Creatio Triangle" />
+			<Item Name="Images.ee5ee0e3-ff7a-f5d1-75a8-231c5fbd7fbe.Image" Type="Image" ContentType="Data" FileExtension=".svg" Value="PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxODUgMjEzIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiPgogICAgPGRlZnM+CiAgICAgICAgPHN0eWxlPgogICAgICAgICAgICAuY2xzLTF7ZmlsbDojZmY0MDEzfS5jbHMtMntmaWxsOiNlMTAwMDB9LmNscy0ze2ZpbGw6I2E4MDAwMH0KICAgICAgICA8L3N0eWxlPgogICAgPC9kZWZzPgogICAgPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTM0MiAtNjQ3NCkiPgogICAgICAgIDxwYXRoIGQ9Ik0zNDcuMSAyMjQuNjNsLTE1MCA0OSA4Mi00OS0xMTctMTA2eiIgY2xhc3M9ImNscy0xIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNzkuODk3IDYzNTUuMzcpIi8+CiAgICAgICAgPHBhdGggZD0iTTE2Mi4zNjYgMzczLjRsMzUtMTU1LTEgOTcgMTUxLTQ5eiIgY2xhc3M9ImNscy0yIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNzkuNjM0IDYzMTMuNTk5KSIvPgogICAgICAgIDxwYXRoIGQ9Ik0xNjIuMzY2IDExOC42N2wxMTcgMTA2LTgyLTQ4LTM1IDE1NXoiIGNsYXNzPSJjbHMtMyIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTc5LjYzNCA2MzU1LjMzKSIvPgogICAgPC9nPgo8L3N2Zz4K" />
+			<Item Name="LocalizableStrings.ActionOneCaption.Value" Value="Action One" />
+			<Item Name="LocalizableStrings.ActionTwoCaption.Value" Value="Action Two" />
 			<Item Name="LocalizableStrings.CompletenessHint.Value" Value="Percentage of profile completion. Click on the indicator to view which data you need to complete the profile." />
 			<Item Name="LocalizableStrings.CompletenessLabel.Value" Value="Profile complete" />
 			<Item Name="LocalizableStrings.EngagementTabTabCaption.Value" Value="Engagement" />
@@ -11,9 +17,11 @@
 			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
 			<Item Name="LocalizableStrings.FillContactWithSocialNetworksDataActionCaption.Value" Value="Update with social networks data" />
 			<Item Name="LocalizableStrings.FormSubmitDetailDetailCaptionOnPage.Value" Value="Submitted forms" />
+			<Item Name="LocalizableStrings.NationalPassportTip.Value" Value="National passport number (AJ55555555)" />
 			<Item Name="LocalizableStrings.RelationshipTabCaption.Value" Value="Connected to" />
 			<Item Name="LocalizableStrings.Schema05157fcdDetail68f32e1bDetailCaptionOnPage.Value" Value="Car" />
-			<Item Name="LocalizableStrings.STRING4c3e4c23dcb14199a8d7d8283cb74afdTip.Value" Value="National passport number (AJ55555555)" />
+			<Item Name="LocalizableStrings.SubActionOneCaption.Value" Value="Sub Action One" />
+			<Item Name="LocalizableStrings.SubActionTwoCaption.Value" Value="Sub Action Two" />
 			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Follow the feed" />
 			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="You are now following feed: {0}" />
 			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />

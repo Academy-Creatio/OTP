@@ -60,7 +60,7 @@
 [crud]: https://academy.creatio.com/documents/technic-sdk/7-16/crud-operations
 
 
-[FeedBackForm]: https://forms.office.com/Pages/ResponsePage.aspx?id=-6Jce0OmhUOLOTaTQnDHFnkM2IfFz_ZAiv6yi86uCspUMk1QN0xVVERMMkg4MVZNRjBHWUpES0pDUSQlQCN0PWcu
+[FeedBackForm]: https://forms.office.com/Pages/ResponsePage.aspx?id=-6Jce0OmhUOLOTaTQnDHFs1n4KjdfnVBtjvFqBN3Vk9UMUQzNlBHMlVOTlZCSDJPWFQxOEY2N1NYRy4u
 [Day1P]: https://us02web.zoom.us/rec/play/vJx7cuugqTw3SdGc5ASDUfB7W9Tvf_6shnMYq_UNmRu9U3cDO1T3YLoTZLG95sMGcmYv4pQ8HBksZKj2
 [Day1D]: https://us02web.zoom.us/rec/download/vJx7cuugqTw3SdGc5ASDUfB7W9Tvf_6shnMYq_UNmRu9U3cDO1T3YLoTZLG95sMGcmYv4pQ8HBksZKj2
 [Day1C]: https://us02web.zoom.us/rec/download/6cErJOD8rD03GoaXtASDAPYqW9TrfK2s0iJKrvYJxUvnWyYEMQWuYLtGZ-ubF27hibO7vGXA-HRn7K2j

@@ -25,6 +25,23 @@ namespace OTP
 				Name = person.Name + " Krylov",
 				Email = person.Email
 			};
+		}	  
+		
+		[OperationContract]
+		[WebInvoke(Method = "POST", RequestFormat = WebMessageFormat.Json, 
+			BodyStyle = WebMessageBodyStyle.WrappedRequest, ResponseFormat = WebMessageFormat.Json)]
+		public Person PostMethodJs(Guid id)
+		{
+			var schema = UserConnection.EntitySchemaManager.GetInstanceByName("Contact");
+			var contact = schema.CreateEntity(UserConnection);
+			contact.FetchFromDB("Id", id, new string[] { "Name", "Email" });
+
+			return new Person
+			{
+				Name = contact.GetTypedColumnValue<string>("Name"),
+				Email = contact.GetTypedColumnValue<string>("Email")
+			};
+			
 		}
 
 		[OperationContract]

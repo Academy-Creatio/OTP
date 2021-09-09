@@ -1,0 +1,29 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "166c8485-7ba1-4c6a-a3d7-d8f58c4b1071"
+        },
+        {
+          "SchemaColumnUId": "4420cc5f-5a43-490b-b583-f8572ac29dce",
+          "Value": "065063c9-8180-e011-afbc-00155d04320c",
+          "DisplayValue": "Contacts"
+        },
+        {
+          "SchemaColumnUId": "a9f680eb-bc67-4aac-919e-0ad9f1000690",
+          "Value": "0914c6a6-408e-4a54-b298-dd8787b84e13"
+        },
+        {
+          "SchemaColumnUId": "aadb966f-e2f2-4239-b56f-51ba5fdf0533",
+          "Value": 1
+        },
+        {
+          "SchemaColumnUId": "18fd508a-8e32-454d-bd8a-82a9d4028ace",
+          "Value": "bd500b82-6101-433c-9511-8771fb3bf49c"
+        }
+      ]
+    }
+  ]
+}
